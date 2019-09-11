@@ -1,11 +1,11 @@
 # Site settings
 author: Shaker Funkhouser
-title: 
+title: Adventures in Learning Full-Stack Web Development
 header-img: img/home-bg.png
 email: vonfunkhouserprod@gmail.com
 copyright_name: Shaker Funkhouser
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Descending the Rabbit Hole
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  theVTOQ
