@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Why Program at All?"
-date:       2019-09-12 00:21:29 +0000
+date:       2019-09-11 20:21:30 -0400
 permalink:  why_program_at_all
 ---
 
